@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>放置ゲームやらかしアーカイブ</title>
+    <link>https://musclelove-777.github.io/idle-yarakashi/</link>
+    <description>放置ゲームでの「廃課金・嫁バレ・サ終直撃」などのやらかし告白を笑える形で記録するメディア。喪失体験を共有することで、ガチ攻略系には書けない人間ドラマを残す。</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 28 Apr 2026 22:32:35 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/idle-yarakashi//feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ソシャゲ廃課金の末路リアル体験 | 累計200万越えの地獄</title>
+      <link>https://musclelove-777.github.io/idle-yarakashi//articles/social-game-whale-spending-reality.html</link>
+      <guid>https://musclelove-777.github.io/idle-yarakashi//articles/social-game-whale-spending-reality.html</guid>
+      <description></description>
+      <category>廃課金やらかし告白</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
