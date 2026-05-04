@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://musclelove-777.github.io/idle-yarakashi/</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-yarakashi//articles/social-game-whale-spending-reality.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-yarakashi//articles/idle-game-whale-spending-regret.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-yarakashi//articles/idle-game-quit-stress.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://musclelove-777.github.io/idle-yarakashi//articles/idle-game-kakin-100man-confession.html</loc>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-yarakashi//category/%E5%BB%83%E8%AA%B2%E9%87%91%E3%82%84%E3%82%89%E3%81%8B%E3%81%97%E5%91%8A%E7%99%BD.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://musclelove-777.github.io/idle-yarakashi//category/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E6%B6%88%E8%80%97%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC.html</loc>
-    <lastmod>2026-05-01</lastmod>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
